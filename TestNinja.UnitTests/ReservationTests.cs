@@ -4,6 +4,7 @@ using TestNinja.Fundamentals;
 
 namespace TestNinja.UnitTests
 {
+    //MSTest
     [TestClass]
     public class ReservationTests
     {
